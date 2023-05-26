@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  TestDPLearnigDemo.cpp
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\aibasebuildtool.h(109): warning C4091: “typedef ”: 没有声明变量时忽略“tagAIBaseParam”的左侧
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\aibasebuildtool.h(215): warning C4251: “AIBaseBuildTool::m_tagAIBaseParams”: struct“tagAIBaseParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\aibasebuildtool.h(99): note: 参见“tagAIBaseParam”的声明
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\aibasebuildtool.h(216): warning C4251: “AIBaseBuildTool::m_tagAIBaseResult”: struct“tagAIBaseResultParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\aibasebuildtool.h(165): note: 参见“tagAIBaseResultParam”的声明
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\aisegmentbuildtool.h(34): warning C4251: “AISegmentBuildTool::m_imgTemp”: struct“Img”需要有 dll 接口由 class“AISegmentBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\aibasebuildtool.h(112): note: 参见“Img”的声明
+  TestDPLearnigDemo.vcxproj -> D:\hwl\DeepLearnintV1.0\DPLearningV1.0\x64\Debug\TestDPLearnigDemo.exe
+  TestDPLearnigDemo.vcxproj -> D:\hwl\DeepLearnintV1.0\DPLearningV1.0\x64\Debug\TestDPLearnigDemo.pdb (Full PDB)

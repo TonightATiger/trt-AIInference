@@ -1,0 +1,181 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (DPLearningV1.0.vcxproj, DPLearningV1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  AIClassifierTool.cpp
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(109): warning C4091: “typedef ”: 没有声明变量时忽略“tagAIBaseParam”的左侧
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(215): warning C4251: “AIBaseBuildTool::m_tagAIBaseParams”: struct“tagAIBaseParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(99): note: 参见“tagAIBaseParam”的声明
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(216): warning C4251: “AIBaseBuildTool::m_tagAIBaseResult”: struct“tagAIBaseResultParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(165): note: 参见“tagAIBaseResultParam”的声明
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(2690): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(4403): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(5300): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+AIClassifierTool.cpp(142): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AIClassifierTool.cpp(152): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+AIClassifierTool.cpp(174): warning C4129: “m”: 不可识别的字符转义序列
+AIClassifierTool.cpp(337): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AIClassifierTool.cpp(338): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AIClassifierTool.cpp(380): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AIClassifierTool.cpp(381): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AIClassifierTool.cpp(382): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AIClassifierTool.cpp(423): warning C4305: “return”: 从“int”到“bool”截断
+AIClassifierTool.cpp(494): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+AIClassifierTool.cpp(495): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+AIClassifierTool.cpp(504): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+  AIDCPClassifierTool.cpp
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(109): warning C4091: “typedef ”: 没有声明变量时忽略“tagAIBaseParam”的左侧
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(215): warning C4251: “AIBaseBuildTool::m_tagAIBaseParams”: struct“tagAIBaseParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(99): note: 参见“tagAIBaseParam”的声明
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(216): warning C4251: “AIBaseBuildTool::m_tagAIBaseResult”: struct“tagAIBaseResultParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(165): note: 参见“tagAIBaseResultParam”的声明
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(2690): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(4403): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(5300): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+AIDCPClassifierTool.cpp(142): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AIDCPClassifierTool.cpp(152): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+AIDCPClassifierTool.cpp(337): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AIDCPClassifierTool.cpp(338): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AIDCPClassifierTool.cpp(380): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AIDCPClassifierTool.cpp(381): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AIDCPClassifierTool.cpp(382): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AIDCPClassifierTool.cpp(423): warning C4305: “return”: 从“int”到“bool”截断
+AIDCPClassifierTool.cpp(494): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+AIDCPClassifierTool.cpp(495): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+AIDCPClassifierTool.cpp(504): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+  AIdetectBuildTool.cpp
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(109): warning C4091: “typedef ”: 没有声明变量时忽略“tagAIBaseParam”的左侧
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(215): warning C4251: “AIBaseBuildTool::m_tagAIBaseParams”: struct“tagAIBaseParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(99): note: 参见“tagAIBaseParam”的声明
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(216): warning C4251: “AIBaseBuildTool::m_tagAIBaseResult”: struct“tagAIBaseResultParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(165): note: 参见“tagAIBaseResultParam”的声明
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(2690): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(4403): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(5300): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(25): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(26): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(29): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(31): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(33): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(34): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(35): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(137): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(173): warning C4305: “参数”: 从“double”到“float”截断
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(221): warning C4305: “参数”: 从“double”到“float”截断
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(223): warning C4305: “参数”: 从“double”到“float”截断
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(301): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\common.hpp(312): warning C4267: “参数”: 从“size_t”转换到“int32_t”，可能丢失数据
+AIdetectBuildTool.cpp(81): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AIdetectBuildTool.cpp(91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+AIdetectBuildTool.cpp(113): warning C4129: “m”: 不可识别的字符转义序列
+AIdetectBuildTool.cpp(275): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AIdetectBuildTool.cpp(276): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AIdetectBuildTool.cpp(319): warning C4838: 从“double”转换到“float”需要收缩转换
+AIdetectBuildTool.cpp(319): warning C4305: “初始化”: 从“double”到“float”截断
+AIdetectBuildTool.cpp(321): warning C4305: “参数”: 从“double”到“float”截断
+AIdetectBuildTool.cpp(336): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+AIdetectBuildTool.cpp(370): warning C4305: “参数”: 从“double”到“float”截断
+AIdetectBuildTool.cpp(385): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+AIdetectBuildTool.cpp(434): warning C4305: “return”: 从“int”到“bool”截断
+AIdetectBuildTool.cpp(495): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+AIdetectBuildTool.cpp(500): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+AIdetectBuildTool.cpp(505): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+AIdetectBuildTool.cpp(508): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+AIdetectBuildTool.cpp(510): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+AIdetectBuildTool.cpp(513): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  AIGlassClassifierTool.cpp
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(109): warning C4091: “typedef ”: 没有声明变量时忽略“tagAIBaseParam”的左侧
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(215): warning C4251: “AIBaseBuildTool::m_tagAIBaseParams”: struct“tagAIBaseParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(99): note: 参见“tagAIBaseParam”的声明
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(216): warning C4251: “AIBaseBuildTool::m_tagAIBaseResult”: struct“tagAIBaseResultParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(165): note: 参见“tagAIBaseResultParam”的声明
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(2690): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(4403): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(5300): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+AIGlassClassifierTool.cpp(141): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AIGlassClassifierTool.cpp(151): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+AIGlassClassifierTool.cpp(336): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AIGlassClassifierTool.cpp(337): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AIGlassClassifierTool.cpp(378): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+AIGlassClassifierTool.cpp(381): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+AIGlassClassifierTool.cpp(387): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+AIGlassClassifierTool.cpp(406): warning C4838: 从“double”转换到“float”需要收缩转换
+AIGlassClassifierTool.cpp(406): warning C4305: “初始化”: 从“double”到“float”截断
+AIGlassClassifierTool.cpp(408): warning C4305: “参数”: 从“double”到“float”截断
+AIGlassClassifierTool.cpp(421): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+AIGlassClassifierTool.cpp(475): warning C4305: “return”: 从“int”到“bool”截断
+AIGlassClassifierTool.cpp(546): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+AIGlassClassifierTool.cpp(547): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+AIGlassClassifierTool.cpp(556): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+  AISegmentBuildTool.cpp
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(109): warning C4091: “typedef ”: 没有声明变量时忽略“tagAIBaseParam”的左侧
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(215): warning C4251: “AIBaseBuildTool::m_tagAIBaseParams”: struct“tagAIBaseParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(99): note: 参见“tagAIBaseParam”的声明
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(216): warning C4251: “AIBaseBuildTool::m_tagAIBaseResult”: struct“tagAIBaseResultParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(165): note: 参见“tagAIBaseResultParam”的声明
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\common\AISegmentBuildTool.h(34): warning C4251: “AISegmentBuildTool::m_imgTemp”: struct“Img”需要有 dll 接口由 class“AISegmentBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(112): note: 参见“Img”的声明
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(2690): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(4403): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(5300): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+AISegmentBuildTool.cpp(90): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AISegmentBuildTool.cpp(100): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+AISegmentBuildTool.cpp(122): warning C4129: “m”: 不可识别的字符转义序列
+AISegmentBuildTool.cpp(284): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AISegmentBuildTool.cpp(285): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AISegmentBuildTool.cpp(328): warning C4838: 从“double”转换到“float”需要收缩转换
+AISegmentBuildTool.cpp(328): warning C4305: “初始化”: 从“double”到“float”截断
+AISegmentBuildTool.cpp(330): warning C4305: “参数”: 从“double”到“float”截断
+AISegmentBuildTool.cpp(345): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+AISegmentBuildTool.cpp(377): warning C4838: 从“double”转换到“float”需要收缩转换
+AISegmentBuildTool.cpp(377): warning C4305: “初始化”: 从“double”到“float”截断
+AISegmentBuildTool.cpp(379): warning C4305: “参数”: 从“double”到“float”截断
+AISegmentBuildTool.cpp(394): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+AISegmentBuildTool.cpp(443): warning C4305: “return”: 从“int”到“bool”截断
+AISegmentBuildTool.cpp(570): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+AISegmentBuildTool.cpp(571): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+AISegmentBuildTool.cpp(580): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+  AISilkGlassClassifierTool.cpp
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(109): warning C4091: “typedef ”: 没有声明变量时忽略“tagAIBaseParam”的左侧
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(215): warning C4251: “AIBaseBuildTool::m_tagAIBaseParams”: struct“tagAIBaseParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(99): note: 参见“tagAIBaseParam”的声明
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(216): warning C4251: “AIBaseBuildTool::m_tagAIBaseResult”: struct“tagAIBaseResultParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(165): note: 参见“tagAIBaseResultParam”的声明
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(2690): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(4403): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\hwl\DeepLearnintV1.0\DPLearningV1.0\include\tensorrt821\NvInfer.h(5300): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+AISilkGlassClassifierTool.cpp(142): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AISilkGlassClassifierTool.cpp(152): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+AISilkGlassClassifierTool.cpp(337): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AISilkGlassClassifierTool.cpp(338): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+AISilkGlassClassifierTool.cpp(380): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AISilkGlassClassifierTool.cpp(381): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AISilkGlassClassifierTool.cpp(382): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+AISilkGlassClassifierTool.cpp(423): warning C4305: “return”: 从“int”到“bool”截断
+AISilkGlassClassifierTool.cpp(494): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+AISilkGlassClassifierTool.cpp(495): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+AISilkGlassClassifierTool.cpp(504): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+  DeepLearningTool.cpp
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(109): warning C4091: “typedef ”: 没有声明变量时忽略“tagAIBaseParam”的左侧
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(215): warning C4251: “AIBaseBuildTool::m_tagAIBaseParams”: struct“tagAIBaseParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(99): note: 参见“tagAIBaseParam”的声明
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(216): warning C4251: “AIBaseBuildTool::m_tagAIBaseResult”: struct“tagAIBaseResultParam”需要有 dll 接口由 class“AIBaseBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(165): note: 参见“tagAIBaseResultParam”的声明
+d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AISegmentBuildTool.h(34): warning C4251: “AISegmentBuildTool::m_imgTemp”: struct“Img”需要有 dll 接口由 class“AISegmentBuildTool”的客户端使用
+  d:\hwl\deeplearnintv1.0\dplearningv1.0\include\common\AIBaseBuildTool.h(112): note: 参见“Img”的声明
+  dllmain.cpp
+    正在创建库 D:\hwl\DeepLearnintV1.0\DPLearningV1.0\x64\Release\DeepLearningTool15_x64u.lib 和对象 D:\hwl\DeepLearnintV1.0\DPLearningV1.0\x64\Release\DeepLearningTool15_x64u.exp
+  正在生成代码
+  All 1472 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DPLearningV1.0.vcxproj -> D:\hwl\DeepLearnintV1.0\DPLearningV1.0\x64\Release\DeepLearningTool15_x64u.dll
+  已复制         1 个文件。
